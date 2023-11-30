@@ -1,6 +1,6 @@
 - 👋 Hi, I am Dhrubo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 🌱 improving web development skills
 
 <!---
 dhrubobari/dhrubobari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
